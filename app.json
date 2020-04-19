@@ -1,5 +1,5 @@
 {
-  "name": "Nana - Telegram Userbot with Assistant",
+  "name": "Telegram Userbot with Assistant",
   "description": "A modular Telegram Userbot with Assistant running on Python 3.6+",
   "logo": "https://i.imgur.com/m7KfBVq.png",
   "keywords": [
@@ -12,9 +12,9 @@
     "productivity",
     "testing"
   ],
-  "repository": "https://github.com/legenhand/Nana-Bot",
+  "repository": "https://github.com/adi19v/Nana-Bot",
   "website": "sagita.tech",
-  "success_url": "https://t.me/nanabotsupport",
+  "success_url": "https://t.me/t2wfamily",
   "stack": "container",
   "env": {
     "ENV": {
@@ -30,7 +30,7 @@
       "value": ""
     },
     "Owner": {
-      "description": "Go to some bot, and check your id there. Ex. Emilia or Rose.",
+      "description": "Go to some bot, and check your id there. Ex. Sara.",
       "value": ""
     },
     "Command": {
